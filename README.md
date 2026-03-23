@@ -45,7 +45,4 @@ Submission repository for the DAT301m group project on Vietnamese handwriting OC
   - `models/onnx/crnn_clean.onnx`
   - `models/onnx/crnn_robust.onnx`
 
-## Notes
 
-- Large binary artifacts are tracked with Git LFS.
-- The repository keeps the original notebook names for traceability against the experimental outputs.
