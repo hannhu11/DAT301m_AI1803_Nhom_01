@@ -1,7 +1,5 @@
 # DAT301m_AI1803_Nhom_01
 
-Submission repository for the DAT301m group project on Vietnamese handwriting OCR under adverse conditions.
-
 ## Repository Structure
 
 - `report/`
