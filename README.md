@@ -29,13 +29,6 @@ Submission repository for the DAT301m group project on Vietnamese handwriting OC
 - `apk/`
   - demo APK for mobile OCR testing
 
-## Report-to-Code Mapping
-
-- The one-checkpoint compromise result discussed in the report is derived from `dat301m-ocr-train-8.ipynb`.
-- The clean specialist ablation discussed in the report is derived from `dat301m-ocr-train-15.ipynb`.
-- The runtime ablation and page-segmentation prototype discussed in the report are derived from `dat301m-ocr-train-17.ipynb`.
-- The Android demo uses exported ONNX models from the same CNN-BiLSTM-CTC model family.
-
 ## Main Deliverables
 
 - Final report PDF: `report/DAT301m_AI1803_Nhom_01.pdf`
