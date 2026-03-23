@@ -1,0 +1,18 @@
+{
+  "baseline_plus_token_corrector_grouped_val": {
+    "stage": "baseline_plus_token_corrector_grouped_val",
+    "improved_vs_baseline": 2,
+    "hurt_vs_baseline": 1,
+    "accepted_corrections": 15,
+    "avg_token_corrections": 0.011337868480725623,
+    "baseline_wrong": 363
+  },
+  "baseline_plus_token_corrector_camera_hard": {
+    "stage": "baseline_plus_token_corrector_camera_hard",
+    "improved_vs_baseline": 4,
+    "hurt_vs_baseline": 0,
+    "accepted_corrections": 28,
+    "avg_token_corrections": 0.109375,
+    "baseline_wrong": 227
+  }
+}

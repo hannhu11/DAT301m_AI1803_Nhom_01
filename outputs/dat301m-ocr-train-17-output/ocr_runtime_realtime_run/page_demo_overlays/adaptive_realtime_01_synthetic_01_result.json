@@ -1,0 +1,105 @@
+{
+  "mode": "adaptive_realtime",
+  "page_path": "/kaggle/working/ocr_runtime_realtime_run/page_demo_sources/synthetic_page_01.png",
+  "crop_box": [
+    54,
+    44,
+    1407,
+    510
+  ],
+  "deskew_angle": 0.0,
+  "line_boxes": [
+    [
+      19,
+      86,
+      178,
+      101
+    ],
+    [
+      20,
+      150,
+      1085,
+      230
+    ],
+    [
+      0,
+      276,
+      1289,
+      364
+    ],
+    [
+      0,
+      406,
+      1191,
+      494
+    ]
+  ],
+  "lines": [
+    {
+      "index": 1,
+      "box": [
+        19,
+        86,
+        178,
+        101
+      ],
+      "text": "lộ dâ \"253 Nhưig &vo Bro vã \" Prêu Ho",
+      "confidence": 0.9207236766815186,
+      "latency_ms": 624.4841899999756,
+      "used_width": 1024,
+      "fallback_used": true
+    },
+    {
+      "index": 2,
+      "box": [
+        20,
+        150,
+        1085,
+        230
+      ],
+      "text": "bên trong phòng xứ rất nhanh để tránh ống kính máy ảnh của các phóng",
+      "confidence": 0.967239260673523,
+      "latency_ms": 647.8824729999815,
+      "used_width": 1280,
+      "fallback_used": true
+    },
+    {
+      "index": 3,
+      "box": [
+        0,
+        276,
+        1289,
+        364
+      ],
+      "text": "Thôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà",
+      "confidence": 0.9817318320274353,
+      "latency_ms": 347.212202000037,
+      "used_width": 1408,
+      "fallback_used": false
+    },
+    {
+      "index": 4,
+      "box": [
+        0,
+        406,
+        1191,
+        494
+      ],
+      "text": "Phượng Xuân Xuân Khang Như Thanh Thanh Hoá",
+      "confidence": 0.9841563701629639,
+      "latency_ms": 348.34500699992077,
+      "used_width": 1312,
+      "fallback_used": false
+    }
+  ],
+  "paragraph_text": "lộ dâ \"253 Nhưig &vo Bro vã \" Prêu Ho\nbên trong phòng xứ rất nhanh để tránh ống kính máy ảnh của các phóng\nThôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà\nPhượng Xuân Xuân Khang Như Thanh Thanh Hoá",
+  "ground_truth_lines": [
+    "hộ dân không thường trú tại xã Xuân Hải.",
+    "bên trong phòng xử rất nhanh để tránh ống kính máy ảnh của các phóng",
+    "Thôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà",
+    "Phượng Xuân Xuân Khang Như Thanh Thanh Hoá"
+  ],
+  "ground_truth_paragraph": "hộ dân không thường trú tại xã Xuân Hải.\nbên trong phòng xử rất nhanh để tránh ống kính máy ảnh của các phóng\nThôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà\nPhượng Xuân Xuân Khang Như Thanh Thanh Hoá",
+  "latency_ms": 1988.3874300001025,
+  "lines_per_page_second": 2.011680389671239
+}

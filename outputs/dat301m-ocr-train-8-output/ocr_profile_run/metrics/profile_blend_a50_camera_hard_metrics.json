@@ -1,0 +1,12 @@
+{
+  "cer": 0.4439343189742722,
+  "wer": 0.7092172587883876,
+  "ser": 0.87890625,
+  "exact_match_case_sensitive": 0.12109375,
+  "exact_match_case_insensitive": 0.125,
+  "avg_confidence": 0.9571058105211705,
+  "line_fps_batch_throughput": 11.15786594000519,
+  "avg_line_latency_ms_batch": 89.62287281249903,
+  "num_eval_samples": 256,
+  "tag": "profile_blend_a50_camera_hard"
+}

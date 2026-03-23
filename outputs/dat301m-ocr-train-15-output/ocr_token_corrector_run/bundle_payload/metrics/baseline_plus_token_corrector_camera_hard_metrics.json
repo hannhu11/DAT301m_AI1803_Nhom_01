@@ -1,0 +1,13 @@
+{
+  "cer": 0.5576023033652153,
+  "wer": 0.8725057280979844,
+  "ser": 0.87109375,
+  "exact_match_case_sensitive": 0.12890625,
+  "exact_match_case_insensitive": 0.12890625,
+  "char_accuracy": 0.4423976966347847,
+  "avg_confidence": 0.9608785698655993,
+  "accepted_correction_ratio": 0.109375,
+  "avg_token_corrections": 0.109375,
+  "num_eval_samples": 256,
+  "tag": "baseline_plus_token_corrector_camera_hard"
+}

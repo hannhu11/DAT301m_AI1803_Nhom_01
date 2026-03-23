@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_primary">#1E7C57</color>
+    <color name="green_soft">#82D8A7</color>
+    <color name="orange_primary">#F28C28</color>
+    <color name="orange_soft">#FFBE66</color>
+    <color name="ink_deep">#081711</color>
+    <color name="surface_card">#D913251F</color>
+    <color name="surface_tint">#B2142A20</color>
+    <color name="line_accent">#4DFFBE66</color>
+    <color name="line_muted">#26FFFFFF</color>
+    <color name="gray_soft">#C4D2CB</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

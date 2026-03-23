@@ -1,0 +1,12 @@
+{
+  "cer": 0.5170560671962915,
+  "wer": 0.8097802846951756,
+  "ser": 0.89453125,
+  "exact_match_case_sensitive": 0.10546875,
+  "exact_match_case_insensitive": 0.109375,
+  "avg_confidence": 0.9542288456577808,
+  "line_fps_batch_throughput": 11.013518464035787,
+  "avg_line_latency_ms_batch": 90.79750519922047,
+  "num_eval_samples": 256,
+  "tag": "profile_blend_a20_camera_hard"
+}

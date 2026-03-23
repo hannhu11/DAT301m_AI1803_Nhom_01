@@ -1,0 +1,15 @@
+{
+  "cer": 0.01991795563580601,
+  "wer": 0.053734017370581845,
+  "ser": 0.2743764172335601,
+  "exact_match_case_sensitive": 0.7256235827664399,
+  "exact_match_case_insensitive": 0.7414965986394558,
+  "char_accuracy": 0.980082044364194,
+  "avg_confidence": 0.9878600191997923,
+  "line_fps_batch_throughput": 9.509544080973278,
+  "avg_line_latency_ms_batch": 105.15751244066504,
+  "num_eval_samples": 1323,
+  "tag": "baseline_raw_grouped_val",
+  "decoder": "greedy",
+  "beam_width": 10
+}

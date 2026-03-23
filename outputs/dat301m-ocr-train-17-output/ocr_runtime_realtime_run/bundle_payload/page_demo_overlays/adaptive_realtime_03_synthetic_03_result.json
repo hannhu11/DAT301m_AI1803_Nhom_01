@@ -1,0 +1,245 @@
+{
+  "mode": "adaptive_realtime",
+  "page_path": "/kaggle/working/ocr_runtime_realtime_run/page_demo_sources/synthetic_page_03.png",
+  "crop_box": [
+    54,
+    44,
+    1509,
+    510
+  ],
+  "deskew_angle": 0.0,
+  "line_boxes": [
+    [
+      21,
+      22,
+      1488,
+      99
+    ],
+    [
+      405,
+      151,
+      1356,
+      212
+    ],
+    [
+      21,
+      162,
+      387,
+      230
+    ],
+    [
+      373,
+      282,
+      464,
+      334
+    ],
+    [
+      22,
+      308,
+      101,
+      340
+    ],
+    [
+      143,
+      313,
+      215,
+      345
+    ],
+    [
+      259,
+      313,
+      326,
+      358
+    ],
+    [
+      795,
+      413,
+      1246,
+      483
+    ],
+    [
+      519,
+      417,
+      757,
+      458
+    ],
+    [
+      20,
+      424,
+      383,
+      490
+    ],
+    [
+      411,
+      427,
+      476,
+      460
+    ]
+  ],
+  "lines": [
+    {
+      "index": 1,
+      "box": [
+        21,
+        22,
+        1488,
+        99
+      ],
+      "text": "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thy (máy",
+      "confidence": 0.9700049757957458,
+      "latency_ms": 354.8777000000882,
+      "used_width": 1840,
+      "fallback_used": false
+    },
+    {
+      "index": 2,
+      "box": [
+        405,
+        151,
+        1356,
+        212
+      ],
+      "text": "Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,",
+      "confidence": 0.9793441295623779,
+      "latency_ms": 349.2147900000191,
+      "used_width": 1504,
+      "fallback_used": false
+    },
+    {
+      "index": 3,
+      "box": [
+        21,
+        162,
+        387,
+        230
+      ],
+      "text": "tuyến nào bao nhiêu",
+      "confidence": 0.9674962162971497,
+      "latency_ms": 637.2650480000175,
+      "used_width": 528,
+      "fallback_used": true
+    },
+    {
+      "index": 4,
+      "box": [
+        373,
+        282,
+        464,
+        334
+      ],
+      "text": "vứa",
+      "confidence": 0.9212210774421692,
+      "latency_ms": 623.7280249999912,
+      "used_width": 176,
+      "fallback_used": true
+    },
+    {
+      "index": 5,
+      "box": [
+        22,
+        308,
+        101,
+        340
+      ],
+      "text": "HTàn",
+      "confidence": 0.9530176520347595,
+      "latency_ms": 643.122546000086,
+      "used_width": 240,
+      "fallback_used": true
+    },
+    {
+      "index": 6,
+      "box": [
+        143,
+        313,
+        215,
+        345
+      ],
+      "text": "X6 20",
+      "confidence": 0.9448974132537842,
+      "latency_ms": 630.2400040000293,
+      "used_width": 224,
+      "fallback_used": true
+    },
+    {
+      "index": 7,
+      "box": [
+        259,
+        313,
+        326,
+        358
+      ],
+      "text": "Cp",
+      "confidence": 0.9189615845680237,
+      "latency_ms": 618.2141640000509,
+      "used_width": 144,
+      "fallback_used": true
+    },
+    {
+      "index": 8,
+      "box": [
+        795,
+        413,
+        1246,
+        483
+      ],
+      "text": "nhiêu khó chịu cũng ",
+      "confidence": 0.9742112755775452,
+      "latency_ms": 321.4182570000048,
+      "used_width": 624,
+      "fallback_used": false
+    },
+    {
+      "index": 9,
+      "box": [
+        519,
+        417,
+        757,
+        458
+      ],
+      "text": "sức Khì bao",
+      "confidence": 0.97696453332901,
+      "latency_ms": 323.46424400009255,
+      "used_width": 560,
+      "fallback_used": false
+    },
+    {
+      "index": 10,
+      "box": [
+        20,
+        424,
+        383,
+        490
+      ],
+      "text": "nhân được cấp cứu",
+      "confidence": 0.9734070897102356,
+      "latency_ms": 319.32317399991916,
+      "used_width": 528,
+      "fallback_used": false
+    },
+    {
+      "index": 11,
+      "box": [
+        411,
+        427,
+        476,
+        460
+      ],
+      "text": "",
+      "confidence": 0.976978600025177,
+      "latency_ms": 308.4712299998955,
+      "used_width": 192,
+      "fallback_used": false
+    }
+  ],
+  "paragraph_text": "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thy (máy\nTrong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,\ntuyến nào bao nhiêu\nvứa\nHTàn\nX6 20\nCp\nnhiêu khó chịu cũng \nsức Khì bao\nnhân được cấp cứu\n",
+  "ground_truth_lines": [
+    "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thủy (máy",
+    "tuyến nào bao nhiêu. Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,",
+    "vào xe cấp cứu.",
+    "nhân được cấp cứu hồi sức thì bao nhiêu khó chịu cũng"
+  ],
+  "ground_truth_paragraph": "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thủy (máy\ntuyến nào bao nhiêu. Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,\nvào xe cấp cứu.\nnhân được cấp cứu hồi sức thì bao nhiêu khó chịu cũng",
+  "latency_ms": 5151.27148900001,
+  "lines_per_page_second": 2.135395120115359
+}

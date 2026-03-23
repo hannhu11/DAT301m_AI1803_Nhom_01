@@ -1,0 +1,537 @@
+[
+  {
+    "mode": "quality_2304",
+    "page_path": "/kaggle/working/ocr_runtime_realtime_run/page_demo_sources/synthetic_page_01.png",
+    "crop_box": [
+      54,
+      44,
+      1407,
+      510
+    ],
+    "deskew_angle": 0.0,
+    "line_boxes": [
+      [
+        19,
+        86,
+        178,
+        101
+      ],
+      [
+        20,
+        150,
+        1085,
+        230
+      ],
+      [
+        0,
+        276,
+        1289,
+        364
+      ],
+      [
+        0,
+        406,
+        1191,
+        494
+      ]
+    ],
+    "lines": [
+      {
+        "index": 1,
+        "box": [
+          19,
+          86,
+          178,
+          101
+        ],
+        "text": "lộ dâ \"253 Nhưig &vo Bro vã \" Prêu Ho",
+        "confidence": 0.9207236766815186,
+        "latency_ms": 355.7349850000264,
+        "used_width": 1024,
+        "fallback_used": false
+      },
+      {
+        "index": 2,
+        "box": [
+          20,
+          150,
+          1085,
+          230
+        ],
+        "text": "bên trong phòng xứ rất nhanh để tránh ống kính máy ảnh của các phóng",
+        "confidence": 0.967239260673523,
+        "latency_ms": 623.7367480000557,
+        "used_width": 1280,
+        "fallback_used": false
+      },
+      {
+        "index": 3,
+        "box": [
+          0,
+          276,
+          1289,
+          364
+        ],
+        "text": "Thôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà",
+        "confidence": 0.9817318320274353,
+        "latency_ms": 330.58683399997335,
+        "used_width": 1408,
+        "fallback_used": false
+      },
+      {
+        "index": 4,
+        "box": [
+          0,
+          406,
+          1191,
+          494
+        ],
+        "text": "Phượng Xuân Xuân Khang Như Thanh Thanh Hoá",
+        "confidence": 0.9841563701629639,
+        "latency_ms": 329.71673999998075,
+        "used_width": 1312,
+        "fallback_used": false
+      }
+    ],
+    "paragraph_text": "lộ dâ \"253 Nhưig &vo Bro vã \" Prêu Ho\nbên trong phòng xứ rất nhanh để tránh ống kính máy ảnh của các phóng\nThôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà\nPhượng Xuân Xuân Khang Như Thanh Thanh Hoá",
+    "ground_truth_lines": [
+      "hộ dân không thường trú tại xã Xuân Hải.",
+      "bên trong phòng xử rất nhanh để tránh ống kính máy ảnh của các phóng",
+      "Thôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà",
+      "Phượng Xuân Xuân Khang Như Thanh Thanh Hoá"
+    ],
+    "ground_truth_paragraph": "hộ dân không thường trú tại xã Xuân Hải.\nbên trong phòng xử rất nhanh để tránh ống kính máy ảnh của các phóng\nThôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà\nPhượng Xuân Xuân Khang Như Thanh Thanh Hoá",
+    "latency_ms": 1666.4711820000093,
+    "lines_per_page_second": 2.4002815309409757
+  },
+  {
+    "mode": "quality_2304",
+    "page_path": "/kaggle/working/ocr_runtime_realtime_run/page_demo_sources/synthetic_page_02.png",
+    "crop_box": [
+      54,
+      44,
+      1631,
+      510
+    ],
+    "deskew_angle": 0.0,
+    "line_boxes": [
+      [
+        103,
+        20,
+        844,
+        104
+      ],
+      [
+        870,
+        30,
+        1571,
+        104
+      ],
+      [
+        29,
+        42,
+        79,
+        86
+      ],
+      [
+        0,
+        146,
+        1172,
+        234
+      ],
+      [
+        1061,
+        281,
+        1387,
+        328
+      ],
+      [
+        384,
+        284,
+        1028,
+        349
+      ],
+      [
+        21,
+        307,
+        349,
+        359
+      ],
+      [
+        24,
+        414,
+        130,
+        486
+      ]
+    ],
+    "lines": [
+      {
+        "index": 1,
+        "box": [
+          103,
+          20,
+          844,
+          104
+        ],
+        "text": "289 Nguyễn Lương Bằng, Phường ",
+        "confidence": 0.9597075581550598,
+        "latency_ms": 471.6890270000249,
+        "used_width": 848,
+        "fallback_used": false
+      },
+      {
+        "index": 2,
+        "box": [
+          870,
+          30,
+          1571,
+          104
+        ],
+        "text": "Văn Đẩu, Quận Kiến An, Hải Phòng",
+        "confidence": 0.9688462615013123,
+        "latency_ms": 463.51020099996276,
+        "used_width": 912,
+        "fallback_used": false
+      },
+      {
+        "index": 3,
+        "box": [
+          29,
+          42,
+          79,
+          86
+        ],
+        "text": "Sư",
+        "confidence": 0.9777306914329529,
+        "latency_ms": 300.84754899996824,
+        "used_width": 112,
+        "fallback_used": false
+      },
+      {
+        "index": 4,
+        "box": [
+          0,
+          146,
+          1172,
+          234
+        ],
+        "text": "Hồng Lạc Thanh Hà Hải Dương",
+        "confidence": 0.9868654608726501,
+        "latency_ms": 324.2484429999877,
+        "used_width": 1280,
+        "fallback_used": false
+      },
+      {
+        "index": 5,
+        "box": [
+          1061,
+          281,
+          1387,
+          328
+        ],
+        "text": "UBND tỉnh Phù Yên, ",
+        "confidence": 0.9697254300117493,
+        "latency_ms": 461.0982959999319,
+        "used_width": 672,
+        "fallback_used": false
+      },
+      {
+        "index": 6,
+        "box": [
+          384,
+          284,
+          1028,
+          349
+        ],
+        "text": "Cầu để nghe phở biến chủ trương của",
+        "confidence": 0.9834634065628052,
+        "latency_ms": 463.05499599998257,
+        "used_width": 960,
+        "fallback_used": false
+      },
+      {
+        "index": 7,
+        "box": [
+          21,
+          307,
+          349,
+          359
+        ],
+        "text": "mời về huyện Sòng",
+        "confidence": 0.9827795624732971,
+        "latency_ms": 431.90891500000816,
+        "used_width": 608,
+        "fallback_used": false
+      },
+      {
+        "index": 8,
+        "box": [
+          24,
+          414,
+          130,
+          486
+        ],
+        "text": "Phu",
+        "confidence": 0.9667014479637146,
+        "latency_ms": 302.16976899998826,
+        "used_width": 144,
+        "fallback_used": false
+      }
+    ],
+    "paragraph_text": "289 Nguyễn Lương Bằng, Phường \nVăn Đẩu, Quận Kiến An, Hải Phòng\nSư\nHồng Lạc Thanh Hà Hải Dương\nUBND tỉnh Phù Yên, \nCầu để nghe phở biến chủ trương của\nmời về huyện Sòng\nPhu",
+    "ground_truth_lines": [
+      "Số 289 Nguyễn Lương Bằng, Phường Văn Đẩu, Quận Kiến An, Hải Phòng",
+      "Hồng Lạc Thanh Hà Hải Dương",
+      "mời về huyện Sông Cầu để nghe phổ biến chủ trương của UBND tỉnh Phú Yên,",
+      "thu"
+    ],
+    "ground_truth_paragraph": "Số 289 Nguyễn Lương Bằng, Phường Văn Đẩu, Quận Kiến An, Hải Phòng\nHồng Lạc Thanh Hà Hải Dương\nmời về huyện Sông Cầu để nghe phổ biến chủ trương của UBND tỉnh Phú Yên,\nthu",
+    "latency_ms": 3237.1429779999517,
+    "lines_per_page_second": 2.471315000409018
+  },
+  {
+    "mode": "quality_2304",
+    "page_path": "/kaggle/working/ocr_runtime_realtime_run/page_demo_sources/synthetic_page_03.png",
+    "crop_box": [
+      54,
+      44,
+      1509,
+      510
+    ],
+    "deskew_angle": 0.0,
+    "line_boxes": [
+      [
+        21,
+        22,
+        1488,
+        99
+      ],
+      [
+        405,
+        151,
+        1356,
+        212
+      ],
+      [
+        21,
+        162,
+        387,
+        230
+      ],
+      [
+        373,
+        282,
+        464,
+        334
+      ],
+      [
+        22,
+        308,
+        101,
+        340
+      ],
+      [
+        143,
+        313,
+        215,
+        345
+      ],
+      [
+        259,
+        313,
+        326,
+        358
+      ],
+      [
+        795,
+        413,
+        1246,
+        483
+      ],
+      [
+        519,
+        417,
+        757,
+        458
+      ],
+      [
+        20,
+        424,
+        383,
+        490
+      ],
+      [
+        411,
+        427,
+        476,
+        460
+      ]
+    ],
+    "lines": [
+      {
+        "index": 1,
+        "box": [
+          21,
+          22,
+          1488,
+          99
+        ],
+        "text": "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thy (máy",
+        "confidence": 0.9700049757957458,
+        "latency_ms": 555.2970109999933,
+        "used_width": 1840,
+        "fallback_used": false
+      },
+      {
+        "index": 2,
+        "box": [
+          405,
+          151,
+          1356,
+          212
+        ],
+        "text": "Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,",
+        "confidence": 0.9793441295623779,
+        "latency_ms": 318.14855400000397,
+        "used_width": 1504,
+        "fallback_used": false
+      },
+      {
+        "index": 3,
+        "box": [
+          21,
+          162,
+          387,
+          230
+        ],
+        "text": "tuyến nào bao nhiêu",
+        "confidence": 0.9674962162971497,
+        "latency_ms": 425.258301000099,
+        "used_width": 528,
+        "fallback_used": false
+      },
+      {
+        "index": 4,
+        "box": [
+          373,
+          282,
+          464,
+          334
+        ],
+        "text": "vứa",
+        "confidence": 0.9212210774421692,
+        "latency_ms": 494.35063500004617,
+        "used_width": 176,
+        "fallback_used": false
+      },
+      {
+        "index": 5,
+        "box": [
+          22,
+          308,
+          101,
+          340
+        ],
+        "text": "HTàn",
+        "confidence": 0.9530176520347595,
+        "latency_ms": 493.8147720000643,
+        "used_width": 240,
+        "fallback_used": false
+      },
+      {
+        "index": 6,
+        "box": [
+          143,
+          313,
+          215,
+          345
+        ],
+        "text": "X6 20",
+        "confidence": 0.9448974132537842,
+        "latency_ms": 489.2814620000081,
+        "used_width": 224,
+        "fallback_used": false
+      },
+      {
+        "index": 7,
+        "box": [
+          259,
+          313,
+          326,
+          358
+        ],
+        "text": "Cp",
+        "confidence": 0.9189615845680237,
+        "latency_ms": 295.5974569999853,
+        "used_width": 144,
+        "fallback_used": false
+      },
+      {
+        "index": 8,
+        "box": [
+          795,
+          413,
+          1246,
+          483
+        ],
+        "text": "nhiêu khó chịu cũng ",
+        "confidence": 0.9742112755775452,
+        "latency_ms": 437.72244999991017,
+        "used_width": 624,
+        "fallback_used": false
+      },
+      {
+        "index": 9,
+        "box": [
+          519,
+          417,
+          757,
+          458
+        ],
+        "text": "sức Khì bao",
+        "confidence": 0.97696453332901,
+        "latency_ms": 431.7344269999239,
+        "used_width": 560,
+        "fallback_used": false
+      },
+      {
+        "index": 10,
+        "box": [
+          20,
+          424,
+          383,
+          490
+        ],
+        "text": "nhân được cấp cứu",
+        "confidence": 0.9734070897102356,
+        "latency_ms": 295.08604000000105,
+        "used_width": 528,
+        "fallback_used": false
+      },
+      {
+        "index": 11,
+        "box": [
+          411,
+          427,
+          476,
+          460
+        ],
+        "text": "",
+        "confidence": 0.976978600025177,
+        "latency_ms": 287.74247000001196,
+        "used_width": 192,
+        "fallback_used": false
+      }
+    ],
+    "paragraph_text": "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thy (máy\nTrong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,\ntuyến nào bao nhiêu\nvứa\nHTàn\nX6 20\nCp\nnhiêu khó chịu cũng \nsức Khì bao\nnhân được cấp cứu\n",
+    "ground_truth_lines": [
+      "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thủy (máy",
+      "tuyến nào bao nhiêu. Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,",
+      "vào xe cấp cứu.",
+      "nhân được cấp cứu hồi sức thì bao nhiêu khó chịu cũng"
+    ],
+    "ground_truth_paragraph": "nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thủy (máy\ntuyến nào bao nhiêu. Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,\nvào xe cấp cứu.\nnhân được cấp cứu hồi sức thì bao nhiêu khó chịu cũng",
+    "latency_ms": 4544.594219000032,
+    "lines_per_page_second": 2.420458124514443
+  }
+]

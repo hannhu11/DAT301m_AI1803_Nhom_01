@@ -1,0 +1,12 @@
+{
+  "cer": 0.38759368966846697,
+  "wer": 0.6071577721786942,
+  "ser": 0.8828125,
+  "exact_match_case_sensitive": 0.1171875,
+  "exact_match_case_insensitive": 0.12109375,
+  "avg_confidence": 0.9465617088135332,
+  "line_fps_batch_throughput": 11.090362680097483,
+  "avg_line_latency_ms_batch": 90.1683767109418,
+  "num_eval_samples": 256,
+  "tag": "profile_robust_camera_hard"
+}

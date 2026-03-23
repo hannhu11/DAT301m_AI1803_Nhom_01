@@ -1,0 +1,89 @@
+{
+  "selected_mode": "quality_2304",
+  "default_request_mode": "adaptive_realtime",
+  "quality_width": 2304,
+  "width_buckets": [
+    1024,
+    1536,
+    1792,
+    2304
+  ],
+  "fallback_confidence_threshold": 0.97,
+  "enable_fallback_rerun": true,
+  "selection_rule": {
+    "adaptive_min_throughput_gain": 0.15,
+    "adaptive_max_cer_delta": 0.0015,
+    "adaptive_max_exact_drop": 0.003,
+    "throughput_gain": -0.08773672723277041,
+    "cer_delta": 0.00015342410438153736,
+    "exact_drop": 0.0022675736961451642
+  },
+  "grouped_val_quality_metrics": {
+    "cer": 0.01991795563580601,
+    "wer": 0.053734017370581845,
+    "ser": 0.2743764172335601,
+    "exact_match_case_sensitive": 0.7256235827664399,
+    "exact_match_case_insensitive": 0.7414965986394558,
+    "char_accuracy": 0.980082044364194,
+    "avg_confidence": 0.9878600199656872,
+    "line_fps_batch_throughput": 10.344533342188267,
+    "avg_line_latency_ms_batch": 96.66941629176105,
+    "num_eval_samples": 1323,
+    "tag": "quality_2304_grouped_val",
+    "single_line_latency_ms": 505.92970808332893
+  },
+  "grouped_val_adaptive_metrics": {
+    "cer": 0.020071379740187547,
+    "wer": 0.05521358707244045,
+    "ser": 0.2766439909297052,
+    "exact_match_case_sensitive": 0.7233560090702947,
+    "exact_match_case_insensitive": 0.7392290249433107,
+    "char_accuracy": 0.9799286202598124,
+    "avg_confidence": 0.9832530843427663,
+    "line_fps_batch_throughput": 9.436937841994396,
+    "avg_line_latency_ms_batch": 105.96657694935719,
+    "num_eval_samples": 1323,
+    "tag": "adaptive_realtime_grouped_val",
+    "single_line_latency_ms": 473.18950616667144
+  },
+  "selected_grouped_val_metrics": {
+    "cer": 0.01991795563580601,
+    "wer": 0.053734017370581845,
+    "ser": 0.2743764172335601,
+    "exact_match_case_sensitive": 0.7256235827664399,
+    "exact_match_case_insensitive": 0.7414965986394558,
+    "char_accuracy": 0.980082044364194,
+    "avg_confidence": 0.9878600199656872,
+    "line_fps_batch_throughput": 10.344533342188267,
+    "avg_line_latency_ms_batch": 96.66941629176105,
+    "num_eval_samples": 1323,
+    "tag": "quality_2304_grouped_val",
+    "single_line_latency_ms": 505.92970808332893
+  },
+  "selected_camera_hard_metrics": {
+    "cer": 0.5625475516040535,
+    "wer": 0.8839193903905531,
+    "ser": 0.88671875,
+    "exact_match_case_sensitive": 0.11328125,
+    "exact_match_case_insensitive": 0.11328125,
+    "char_accuracy": 0.43745244839594655,
+    "avg_confidence": 0.9608785689342767,
+    "line_fps_batch_throughput": 10.489737673078931,
+    "avg_line_latency_ms_batch": 95.33126863281049,
+    "num_eval_samples": 256,
+    "tag": "quality_2304_camera_hard",
+    "single_line_latency_ms": 399.4328668750029
+  },
+  "selected_page_metrics": {
+    "cer": 1.133592583132933,
+    "wer": 1.0093717198980356,
+    "ser": 0.8333333333333334,
+    "exact_match_case_sensitive": 0.16666666666666666,
+    "exact_match_case_insensitive": 0.16666666666666666,
+    "avg_confidence": 0.9654858915702157,
+    "page_latency_ms": 3149.402792999998,
+    "lines_per_page_second": 2.4343239561820864,
+    "num_eval_samples": 3,
+    "tag": "quality_2304_page_demo"
+  }
+}

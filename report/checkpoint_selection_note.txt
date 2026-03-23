@@ -1,0 +1,28 @@
+Final single-checkpoint choice for the report
+===========================================
+
+Selected checkpoint:
+- profile_compromise_a35.weights.h5
+
+Checkpoint family source:
+- dat301m-ocr-train-8-output/ocr_profile_run/profile_report.json
+
+Reason for selection:
+- one-checkpoint constraint from the report requirement
+- best balance between clean-line accuracy and hard-condition robustness
+
+Key metrics of the selected checkpoint:
+- Clean CER: 0.020949
+- Clean WER: 0.056665
+- Clean exact-match: 70.29%
+- Hard CER: 0.470926
+- Hard WER: 0.735687
+- Hard exact-match: 11.72%
+
+Comparison references kept in the report:
+- Clean specialist upper bound: dat301m-ocr-train-15-output/ocr_token_corrector_run/selected_sentence_pipeline.json
+- Runtime reference: dat301m-ocr-train-17-output/ocr_runtime_realtime_run/runtime_profile.json
+
+Regeneration utilities in this folder:
+- generate_report_assets.py
+- report_figures_notebook.ipynb

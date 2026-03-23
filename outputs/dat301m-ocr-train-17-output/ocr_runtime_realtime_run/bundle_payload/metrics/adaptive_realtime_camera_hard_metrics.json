@@ -1,0 +1,14 @@
+{
+  "cer": 0.5682668785386629,
+  "wer": 0.8832249459461087,
+  "ser": 0.88671875,
+  "exact_match_case_sensitive": 0.11328125,
+  "exact_match_case_insensitive": 0.11328125,
+  "char_accuracy": 0.43173312146133713,
+  "avg_confidence": 0.9525763723067939,
+  "line_fps_batch_throughput": 6.855091246583048,
+  "avg_line_latency_ms_batch": 145.87697873437565,
+  "num_eval_samples": 256,
+  "tag": "adaptive_realtime_camera_hard",
+  "single_line_latency_ms": 558.9969878750006
+}

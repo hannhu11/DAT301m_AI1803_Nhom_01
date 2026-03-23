@@ -1,0 +1,96 @@
+{
+  "recommended_profiles": {
+    "clean_paper": {
+      "name": "Profile clean: baseline",
+      "weight_path": "/kaggle/working/ocr_profile_run/profile_clean_baseline.weights.h5",
+      "why": "Giay trang, anh tuong doi sach, can giu exact-match cao nhat.",
+      "grouped_val_metrics": {
+        "cer": 0.021159403812842138,
+        "wer": 0.0552987084269582,
+        "ser": 0.2857142857142857,
+        "exact_match_case_sensitive": 0.7142857142857143,
+        "exact_match_case_insensitive": 0.7309145880574452,
+        "avg_confidence": 0.9843780768251023,
+        "line_fps_batch_throughput": 11.109106026912755,
+        "avg_line_latency_ms_batch": 90.01624411338004,
+        "num_eval_samples": 1323,
+        "tag": "profile_clean_grouped_val"
+      },
+      "camera_hard_metrics": {
+        "cer": 0.5650213121956406,
+        "wer": 0.8839031143488862,
+        "ser": 0.88671875,
+        "exact_match_case_sensitive": 0.11328125,
+        "exact_match_case_insensitive": 0.11328125,
+        "avg_confidence": 0.9506560502341017,
+        "line_fps_batch_throughput": 11.220856942044897,
+        "avg_line_latency_ms_batch": 89.11975307812448,
+        "num_eval_samples": 256,
+        "tag": "profile_clean_camera_hard"
+      }
+    },
+    "compromise_single_model": {
+      "name": "Profile blend alpha=0.35",
+      "weight_path": "/kaggle/working/ocr_profile_run/profile_compromise_a35.weights.h5",
+      "why": "Mot model can bang, clean gan baseline hon nhung hard tot hon ro.",
+      "grouped_val_metrics": {
+        "cer": 0.020948542245762064,
+        "wer": 0.05666462205023091,
+        "ser": 0.29705215419501135,
+        "exact_match_case_sensitive": 0.7029478458049887,
+        "exact_match_case_insensitive": 0.7180650037792895,
+        "avg_confidence": 0.9843177029965776,
+        "line_fps_batch_throughput": 11.058224157287698,
+        "avg_line_latency_ms_batch": 90.43043311262326,
+        "num_eval_samples": 1323,
+        "tag": "profile_blend_a35_grouped_val"
+      },
+      "camera_hard_metrics": {
+        "cer": 0.47092619479968423,
+        "wer": 0.7356874359649852,
+        "ser": 0.8828125,
+        "exact_match_case_sensitive": 0.1171875,
+        "exact_match_case_insensitive": 0.12109375,
+        "avg_confidence": 0.9570271724369377,
+        "line_fps_batch_throughput": 10.927506760718869,
+        "avg_line_latency_ms_batch": 91.51218314453047,
+        "num_eval_samples": 256,
+        "tag": "profile_blend_a35_camera_hard"
+      }
+    },
+    "robust_bad_conditions": {
+      "name": "Profile robust: balanced-best",
+      "weight_path": "/kaggle/working/ocr_profile_run/profile_robust_balanced.weights.h5",
+      "why": "Uu tien dieu kien xau, mo, toi, nhieu, rung tay.",
+      "grouped_val_metrics": {
+        "cer": 0.028006922178339656,
+        "wer": 0.07614582668622209,
+        "ser": 0.36130007558578986,
+        "exact_match_case_sensitive": 0.6386999244142101,
+        "exact_match_case_insensitive": 0.6621315192743764,
+        "avg_confidence": 0.9822171197096147,
+        "line_fps_batch_throughput": 11.080775245826002,
+        "avg_line_latency_ms_batch": 90.24639321844276,
+        "num_eval_samples": 1323,
+        "tag": "profile_robust_grouped_val"
+      },
+      "camera_hard_metrics": {
+        "cer": 0.38759368966846697,
+        "wer": 0.6071577721786942,
+        "ser": 0.8828125,
+        "exact_match_case_sensitive": 0.1171875,
+        "exact_match_case_insensitive": 0.12109375,
+        "avg_confidence": 0.9465617088135332,
+        "line_fps_batch_throughput": 11.090362680097483,
+        "avg_line_latency_ms_batch": 90.1683767109418,
+        "num_eval_samples": 256,
+        "tag": "profile_robust_camera_hard"
+      }
+    }
+  },
+  "blend_alpha_candidates": [
+    0.2,
+    0.35,
+    0.5
+  ]
+}

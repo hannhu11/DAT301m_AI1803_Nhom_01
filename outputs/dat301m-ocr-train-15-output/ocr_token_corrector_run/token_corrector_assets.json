@@ -1,0 +1,8 @@
+{
+  "train_pairs": 45748,
+  "val_pairs": 497,
+  "token_vocab_size": 108,
+  "token_max_len": 15,
+  "unique_tokens": 3581,
+  "weighted_tokens": 12432
+}

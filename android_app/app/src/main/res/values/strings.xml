@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viet Handwriting OCR</string>
+    <string name="recognized_text_label">Văn bản nhận diện theo đoạn</string>
+    <string name="confidence_label">Độ tin cậy</string>
+    <string name="suggestion_label">Gợi ý sửa</string>
+    <string name="placeholder_text">Đưa 1 dòng hoặc 1 đoạn chữ viết tay vào khung quét</string>
+    <string name="placeholder_confidence" formatted="false">0%</string>
+    <string name="no_suggestion">Chưa có đề xuất chuẩn hoá</string>
+    <string name="meta_initial">Chờ camera, mô hình và phân tách dòng khởi động.</string>
+    <string name="lock_button">Giữ kết quả</string>
+    <string name="unlock_button">Bỏ giữ</string>
+    <string name="capture_button">Chụp khung hiện tại</string>
+    <string name="capture_pending_button">Đang chụp...</string>
+    <string name="status_result_locked">✓ Đã giữ kết quả</string>
+    <string name="status_capture_pending">Đang chụp khung hiện tại...</string>
+    <string name="no_result_to_lock">Chưa có kết quả để giữ</string>
+    <string name="copy_button">Sao chép</string>
+    <string name="share_button">Chia sẻ</string>
+    <string name="status_loading_model">Đang nạp mô hình ONNX...</string>
+    <string name="status_ready">Sẵn sàng quét line và paragraph chữ viết tay</string>
+    <string name="status_camera_permission_required">Cần quyền camera để quét chữ</string>
+    <string name="status_camera_error">Không thể khởi động camera</string>
+    <string name="status_model_error">Không thể nạp mô hình</string>
+    <string name="share_title">Kết quả OCR chữ viết tay</string>
+</resources>
+

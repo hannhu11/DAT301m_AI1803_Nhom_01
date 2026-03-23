@@ -1,0 +1,12 @@
+{
+  "cer": 0.021159403812842138,
+  "wer": 0.0552987084269582,
+  "ser": 0.2857142857142857,
+  "exact_match_case_sensitive": 0.7142857142857143,
+  "exact_match_case_insensitive": 0.7309145880574452,
+  "avg_confidence": 0.9843780768251023,
+  "line_fps_batch_throughput": 10.82627374473525,
+  "avg_line_latency_ms_batch": 92.36788423960681,
+  "num_eval_samples": 1323,
+  "tag": "baseline_grouped_val"
+}

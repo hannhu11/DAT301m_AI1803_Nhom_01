@@ -1,0 +1,257 @@
+﻿filename,path,ground_truth,prediction,confidence,char_distance_lower,word_distance_lower,exact_match
+425_185_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/425_185_1.jpg,gì,g,0.997721791267395,1,1,0
+215_60_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/215_60_1.jpg,tự,tự,0.9990922808647156,0,0,1
+706_51_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/706_51_1.jpg,đời,tà,0.9939315915107727,3,1,0
+285_177_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/285_177_1.jpg,vị,vi,0.9926033616065979,1,1,0
+250_95_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/250_95_1.jpg,là,Cá,0.9981212019920349,2,1,0
+195_128_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_128_1.jpg,về,về,0.9997188448905945,0,0,1
+133_89_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/133_89_1.jpg,có,có,0.9995396137237549,0,0,1
+140_129_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/140_129_1.jpg,Ấn,tp,0.9902271628379822,2,1,0
+308_76_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/308_76_1.jpg,hè,hè,0.9991005659103394,0,0,1
+68_178_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_178_1.jpg,cứ,củ,0.9985378980636597,1,1,0
+145_46_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/145_46_1.jpg,nói,nói,0.9981566071510315,0,0,1
+363_125_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/363_125_1.jpg,bằng,cuộng,0.9927053451538086,3,1,0
+271_15_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_15_1.jpg,ta,ta,0.9979310631752014,0,0,1
+381_7_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/381_7_1.jpg,cái,cái,0.9990462064743042,0,0,1
+316_86_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/316_86_1.jpg,vụ,vụ,0.9991379976272583,0,0,1
+140_78_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/140_78_1.jpg,tại,tai,0.9967896342277527,1,1,0
+248_174_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/248_174_1.jpg,11,11,0.9566264152526855,0,0,1
+363_25_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/363_25_1.jpg,gần,gần,0.9990503787994385,0,0,1
+710_223_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/710_223_1.jpg,tiếp,,0.9788982272148132,4,1,0
+328_212_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/328_212_1.jpg,được,điưc,0.9985385537147522,2,1,0
+140_166_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/140_166_1.jpg,người,,0.9807705879211426,5,1,0
+193_246_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_246_1.jpg,đã,đãi,0.9964249134063721,1,1,0
+285_238_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/285_238_1.jpg,và,tag,0.9490317106246948,3,1,0
+140_15_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/140_15_1.jpg,tấp,tấp,0.9975625276565552,0,0,1
+27_240_2.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_240_2.jpg,Tây,hông,0.9900931119918823,4,1,0
+215_32_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/215_32_1.jpg,cọc,Cộc,0.9964756369590759,1,1,0
+7_137_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_137_1.jpg,ngờ.,ngờ.,0.997314989566803,0,0,1
+58_7_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/58_7_1.jpg,hồ,tồn,0.9955148100852966,2,1,0
+79_111_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_111_1.jpg,cụt,cụụt,0.9945743680000305,1,1,0
+285_86_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/285_86_1.jpg,thu,tAur,0.9834564924240112,2,1,0
+55_81_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/55_81_1.jpg,chỉ,tến,0.9642711877822876,3,1,0
+321_197_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/321_197_1.jpg,trình,trìììh,0.9909456372261047,2,1,0
+425_74_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/425_74_1.jpg,về,và,0.9948244690895081,1,1,0
+284_187_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/284_187_1.jpg,năm,nìm,0.9937630891799927,1,1,0
+58_125_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/58_125_1.jpg,niệm,đn,0.9489439129829407,4,1,0
+285_25_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/285_25_1.jpg,thu,t,0.9532598853111267,2,1,0
+516_117_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/516_117_1.jpg,hoặc,,0.9398548603057861,4,1,0
+316_118_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/316_118_1.jpg,về,tề,0.9942538142204285,1,1,0
+470_177_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/470_177_1.jpg,đề,đề,0.998681366443634,0,0,1
+179_108_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/179_108_1.jpg,kiện,kiện,0.9923396110534668,0,0,1
+320_113_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/320_113_1.jpg,trên,đô,0.9906105399131775,4,1,0
+271_87_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_87_1.jpg,triệu,tươ,0.9884289503097534,4,1,0
+320_172_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/320_172_1.jpg,của,kn,0.9601536393165588,3,1,0
+304_145_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/304_145_1.jpg,Phú,Phú,0.9988192319869995,0,0,1
+140_63_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/140_63_1.jpg,Định,ntá,0.9799943566322327,4,1,0
+519_145_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/519_145_1.jpg,chứng, t,0.9688674807548523,5,1,0
+248_236_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/248_236_1.jpg,ra,ra,0.9973332285881042,0,0,1
+838_201_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/838_201_1.jpg,dù,dù,0.9974828958511353,0,0,1
+179_78_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/179_78_1.jpg,ra,nra,0.9955592155456543,1,1,0
+179_199_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/179_199_1.jpg,của,1ApMit,0.9781106114387512,6,1,0
+27_220_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_220_1.jpg,hộ dân không thường trú tại xã Xuân Hải.,c cu hân cing tn. oâm,0.9277127385139465,29,9,0
+486_133_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/486_133_1.jpg,văn,năn,0.9963601231575012,1,1,0
+193_188_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_188_1.jpg,ương,Long,0.9927460551261902,2,1,0
+534_223_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/534_223_1.jpg,thêm,nh,0.9865873456001282,3,1,0
+361_6_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/361_6_1.jpg,ngạt,gạt,0.9951624274253845,1,1,0
+286_130_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/286_130_1.jpg,xác,xáác,0.9932357668876648,1,1,0
+78_143_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/78_143_1.jpg,nguyện,nuyện,0.996240496635437,1,1,0
+58_169_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/58_169_1.jpg,tiên,điêg,0.9803674221038818,2,1,0
+58_54_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/58_54_1.jpg,2004,tĐ,0.9850019216537476,4,1,0
+512_77_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/512_77_1.jpg,HĐXX,sộ Bg sáná,0.9699183702468872,10,3,0
+55_187_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/55_187_1.jpg,đất nước.,đất nước.,0.9942190647125244,0,0,1
+31_106_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_106_1.jpg,"trại số 4 đi, vùi lấp anh em.",,0.9335401058197021,29,8,0
+7_11_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_11_1.jpg,vụ đông xuân.,vụ dông xuân.,0.9936648607254028,1,1,0
+31_18_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_18_1.jpg,đào 5 - 6 m / ngày.,đào 5-6 m / ngày.,0.9898533821105957,2,3,0
+838_34_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/838_34_1.jpg,container,Kg kạêg na,0.9446581602096558,10,3,0
+27_148_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_148_1.jpg,Khai Minh.,Khai Minh.,0.984893798828125,0,0,1
+7_178_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_178_1.jpg,vào xe cấp cứu.,vào xe cấp cứu.,0.9953053593635559,0,0,1
+7_29_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_29_1.jpg,được về nước làm việc.,về nước làm việc.,0.9881623983383179,5,1,0
+7_172_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_172_1.jpg,quên thân vì xã hội.,quân thôn và xã hội,0.9912963509559631,4,4,0
+7_227_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_227_1.jpg,tưới vào cuối vụ đông xuân.,Tưới Xào cuối vạ tông xuốn,0.9747605919837952,5,4,0
+27_111_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_111_1.jpg,không dưới tiền triệu.,không dưới tiền triệu,0.98967045545578,1,1,0
+31_15_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_15_1.jpg,hạng sang và cả quan chức nhà nước.,"hạng "" sang và cả quan chức nhà",0.9814660549163818,8,2,0
+27_7_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_7_1.jpg,"cuộc "" tiến công "" ra cồn Giá.","chộc "" hếi cô "" ra Cộn Giá.",0.971970796585083,7,4,0
+7_74_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_74_1.jpg,đã được đưa về thị trấn này.,đã được đưa về thị trấn này.,0.9935600757598877,0,0,1
+27_211_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_211_1.jpg,"phụ xế tất bật chạy đến trình "" giấy "".","phụ xế tất bật chạy đến trình "" giấy "".",0.9837414026260376,0,0,1
+7_246_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_246_1.jpg,"trường hợp "" không nhờ cấp cứu đã... "".","trường hợp "" không nhờ cấp cứu đã... "".",0.9830409288406372,0,0,1
+7_237_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_237_1.jpg,"những mô hình thành công và chưa thành công, chỉ rõ những cách tiếp","thồng nó lình thành công và dhưa thành công, chi só những cách tếp",0.9481524229049683,10,7,0
+27_79_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_79_1.jpg,... ăn cho khỏi chết đói., ăn cho khỏi chết đói.,0.9751233458518982,3,1,0
+7_24_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_24_1.jpg,đang vô tư đứng bên cửa sổ nhìn xuống sông Hàn...,trang vô tư đứng bên cửa sẽ nhìn xuống sông Hà...,0.9613094925880432,4,3,0
+7_142_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_142_1.jpg,tì này làm thành nghĩa địa Từ Thiện.,Ti này làm thành nghĩa địa tù thuận.,0.9848273396492004,4,3,0
+7_244_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_244_1.jpg,quyền ký hợp đồng tín dụng nhận vốn vay.,quyền ký hợp đông tín dụng nhận vốn vay.,0.984294056892395,1,1,0
+7_183_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_183_1.jpg,khách sạn Ngọc Vân 2 thì vẫn yên vị?,kháh csu Ngọc Vân & xừ. Yền v?.,0.940271258354187,15,7,0
+7_247_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_247_1.jpg,trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2),trên1 triệu km2 (gấp 3 diện tích đất liền : 1hiện kim2 13Đ.Nh),0.922970175743103,17,8,0
+27_35_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_35_1.jpg,"các kỳ thi, và cũng là bản chất của thành công.","các kỳ thi, và cũng là bản chắt, của thành công.",0.9776230454444885,2,1,0
+7_141_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_141_1.jpg,điều này không chỉ gây khó khăn cho chủ đầu tư mà cả người dân,iầu này không chỉ gây khó kăn cho chủu đầu tư mà cả người ở,0.966854989528656,7,4,0
+31_34_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_34_1.jpg,"Trong khi đó, tại khu vực trạm thu phí do bị vướng giải tỏa",cun n đt tôi khu vực trạm thu phí do bị vướng giải tỏả,0.9222118854522705,11,5,0
+31_38_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_38_1.jpg,"việc tốt. Chuyên môn hóa là xu hướng của phát triển, việc tốt cũng chuyên","i, vxêu sốt. a ni đáo là xae huuớng của phát triển, vậc tốt cũng chuyên",0.9106296896934509,25,9,0
+27_238_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_238_1.jpg,trưởng GDP trên địa bàn TP đạt 12% năm 2004 và trên 12% năm,"thưởng GDP trôn địa bàn TP đại 12%, năm 2004 và tiên l) năm",0.967902421951294,8,6,0
+27_141_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_141_1.jpg,"tình thế và đột xuất, nhưng Cienco 5 đã không đưa ra các phương","""i thế và đột xuất, nhưng qimno 5 đà không đưa ra các phú",0.9708247184753418,12,4,0
+27_162_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_162_1.jpg,ký quyền sử dụng đất không phải là một bộ phận hành chính mà là một tổ,thnnhny đết khôn phủ lệ một bợ phận hành chnh mà là một tá,0.8811324834823608,22,11,0
+7_223_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_223_1.jpg,lên cầu thang và đi vào bên trong phòng xử rất nhanh để tránh ống kính,lên cầu thang và đi vào biên trong phòng xử rất nhanh đi tránh ống kính,0.9592632055282593,2,2,0
+27_110_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_110_1.jpg,"Trại hòm đó để chứa hòm thí, lúc nào hòm cũng chất đầy, người cho gỗ, kẻ ra","Trạ. hàm đó để chữa "" hàm thí, lúc nào hàm cũng chắt đầy, người cho gỗ, kểm",0.9594408869743347,12,9,0
+55_141_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/55_141_1.jpg,tuyến đường. Khi gần qua trạm kiểm soát với bốn làn lưu thông,tuyến đường. Khi gòà qua tram kiểm soát với...,0.9675218462944031,21,7,0
+31_238_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_238_1.jpg,các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh,các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh,0.9821862578392029,0,0,1
+31_80_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_80_1.jpg,đã phê duyệt chương trình dạy tiếng Việt cho NVƠNN.,đã phê duyệt chương trình dạy tiếng Việt cho NVƠNN.,0.978556215763092,0,0,1
+7_103_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_103_1.jpg,"trung tâm thị trấn du lịch Cát Bà... Bắt "" cá "" ở trên trời.","trung lâm thi trến du lịch Cát Rồg Bắt "" cá "" ở trên trà.",0.9521651864051819,10,5,0
+7_147_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_147_1.jpg,cứu. Buổi sáng 10 - 11 - 2003 tôi ngồi ở phòng cấp cứu 115 của Bệnh viện Trưng Vương.,cứu. Duối súng 10 - 11 - 2003 tế ngài ở phòng cất cứu 115 của Bệnh viện Trưong Vrơng.,0.9375489354133606,9,7,0
+7_254_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_254_1.jpg,diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 /,ện tích trên 1 ciệu km2 lgấp 3 diệng tích đư liền : thiện lưn),0.9529422521591187,17,9,0
+27_124_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_124_1.jpg,"thân. Thật là khủng khiếp! "" Nhất nhật tại tù... "" : bệnh tật, roi mây,","thân Thật là thng khiếp 1"" Nhất  n Bên Lai a ngy",0.9038976430892944,34,13,0
+27_33_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_33_1.jpg,trường hợp thuộc thẩm quyền quyết định của UBND cấp huyện là,trường hợp thuộc thẩm quyềt quyết định củo UND cấp nuyện lã,0.9638146162033081,5,5,0
+7_160_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_160_1.jpg,"người thợ lặng người. Phía trước, hai mũi khoan chủ lực của đội khoan số 1 (Công ty","ngảnt thị Lặng người. Phéo trát, hai nu khm chủ lực của đi khian số 1CGông",0.8982113599777222,23,11,0
+31_63_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_63_1.jpg,báo của Phòng Tài chính - kế hoạch huyện Sông Cầu về việc trả lại tiền sử,của Phòng Tài chinh - kế hoạch huyện Sòng Cấu về việc trả lại tiền sử,0.9678834080696106,7,4,0
+193_2.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_2.jpg,611/4e Phan Đình Phùng P2 Thành Phố Đà Lạt Lâm Đồng,611/Ae Phan Đrình Phùng P2 Thành Phố Đà Tạt Tâm Đồng,0.9692133665084839,4,4,0
+7_40_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_40_1.jpg,Giải pháp tạm thời này nhằm gỡ thế bí câu thúc về tiến độ cho nhà đầu tư,Gtẻ phát tạo Hhời nàg nhằm gỡ thế b câu thắc sề tiếi bị du nhà đá ta,0.9195266366004944,19,13,0
+31_203_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_203_1.jpg,""" nổi tiếng "" về chặn xe tại khu vực km 95 quốc lộ 20, địa bàn La Ngà,","cc nối trếng "" về chân xe tự khi nn 5quối lộ 20, địạ bàn La ngyàn",0.9177946448326111,20,12,0
+7_226_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_226_1.jpg,công nhân đứng ra tố cáo tiêu cực ở đường liên cảng A5 ngày xưa,công nhân đứng ra tố cáo tiêu cực ở đường tiên cảng A5 ngàny tưa,0.969646692276001,3,3,0
+27_161_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_161_1.jpg,"rộng thùng thình, gần 50 công nhân, người đứng nhìn những bạn bè","rộng thùng thinh, gần 50... "" nhân, người đứng nhìn những bạn",0.960837721824646,9,4,0
+7_117_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_117_1.jpg,bên trong phòng xử rất nhanh để tránh ống kính máy ảnh của các phóng,bên trong phòng xú rất nhanh để tránh ống kính máy ảnh của các phón,0.9739857316017151,2,2,0
+27_120_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_120_1.jpg,"xe lửa đang qua khu vực này. Trong khi đó, tại khu vực trạm thu phí do","a hom tay taa kh vực si trong khiđc, trá hmột tan thán, á đã",0.8846258521080017,35,15,0
+7_214_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_214_1.jpg,triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).,triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).,0.9734885096549988,0,0,1
+7_164_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_164_1.jpg,"tháng 8 - 2003, thời hạn 36 tháng với loại công việc là công nhân xây dựng.","uyn kn, thời hạn 36 tháng với loại công việc là công nhân xây dựng.",0.9402437806129456,12,4,0
+7_116_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_116_1.jpg,Và 115 đã trở thành số điện thoại đáng tin cậy của nhiều người...,và 115 đã trở thành số điện thoại đáng tin cậy của nhiều người...,0.9777230620384216,0,0,0
+195_24.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_24.jpg,Tổ Kha Lâm 4 Nam Sơn Kiến An Hải Phòng,22 Bệ Ken Ex Liu R HLnh,0.9255736470222473,28,10,0
+31_168_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_168_1.jpg,Trị những ngày tháng ấy mới thấy những dòng nhật ký của,Tri nhúng ngày thàng ấy nới thấy những dòng nhật ký của,0.9653534293174744,4,4,0
+31_148_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_148_1.jpg,giấy tờ chưa tìm được chủ. Lại có nhiều giấy tờ bị những chủ nhân từ chối nhận,cyêu tô vaha tìm được châai. Lại có nhiều giầ tô bị những chủ nhân từ chối nhân,0.9245256781578064,15,7,0
+27_169_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_169_1.jpg,"thọc huyết, làm sạch lông cất trong tủ lạnh, ở đây còn nuôi sống các con","""huyết, làm sạch lông cất trong tủ lạnh, ở đây còn nuôi sống cácc",0.9662142395973206,8,4,0
+27_38_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_38_1.jpg,người nhặt được đấy là gì. Tờ bướm Công ty Khai Minh phân phát để quảng,giười nhặt được dấy lờ gì tờ bảảm Công ty Khai Minh phân phát để quảng,0.953313410282135,7,5,0
+193_7.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_7.jpg,Cụm 1 Tdp Hải Lộc Thị Trấn Cát Hải Cát Hải Hải Phòng,Cụm 1 Tdp Hải Lộc Thị Trấn Cát Hải Cát Hải Hải Phòng,0.9839332699775696,0,0,1
+27_69_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_69_1.jpg,Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý,"Quan sng sừ lọ the suố lực hấy xế khổg?, Ph v P",0.9288898706436157,37,14,0
+195_3.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_3.jpg,Kp Phan Bội Châu Thị Trấn Dầu Giây Thống Nhất Đồng Nai,t uyn Đn Kh Đ Đ,0.8952497839927673,44,12,0
+31_215_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_215_1.jpg,"Anh Đoàn Văn Hiếu, bí thư kiêm chủ tịch xã Thạnh Mỹ Tây, rất tâm đắc với","Anh Đoàn Văn Hiếu bí thủ Biêm chủ tịch xã Thạnh Mỹ Tây, rất tâm đắc vớii",0.9667755365371704,4,4,0
+31_71_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_71_1.jpg,"của VN, có thể là ngay tại Sea Games tới. Nhóm giải pháp cuối cùng",của VN có thể là ngay tạt vyg àg tới. Nhâm Đả pháp cả ty,0.9255191087722778,21,8,0
+195_7.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_7.jpg,Ấp Tân Điền Giục Tượng Châu Thành Kiên Giang,"Tô TâyTạ, Cuậg Quâng Phuy Thạh Biên Qang",0.8821130394935608,23,9,0
+31_169_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_169_1.jpg,"thị trấn, người chủ quán có hàng ria mép trở về cho biết có cái đùi heo rừng","vộ trần, người chi quán có hàng rưa múp trở vềc"" tình có ái thài heo rừng",0.9179309606552124,18,10,0
+193_9.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_9.jpg,Yên Sơn Thành Phố Tam Điệp Ninh Bình,Tần Sơn Thành Phố Tâm Điệp Nnh Bình,0.9787141680717468,4,3,0
+27_174_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_174_1.jpg,"với số lượng lớn thì ông Ba lại chỉ sang các đầu nậu ở Lâm Đồng,","với số lượng lớn thì ông Ba lại chỉ sang các đầu nậu ở Lâm công,",0.9758080840110779,2,1,0
+27_194_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_194_1.jpg,đơn từ con và coi như anh Đại không có trên cuộc đời này. Chỉ tay,đơm từi con co..in tn Đại không có tren cuộc đời này. Chỉ,0.9536300301551819,17,8,0
+271_21.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_21.jpg,Tổ 66 Hoà An Cẩm Lệ Đà Nẵng,T5 55 Thà An Cần Lệ Đà Nẵng,0.9504783749580383,7,4,0
+7_208_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_208_1.jpg,Đang lặn thì máy nén khí bị hỏng. Năm phút sau thấy bay thợ nổi lên nhưng anh,Bang  n .c n2 kếá bị cảng. V phứt sao thấy a v đị  nch,0.8372136950492859,39,16,0
+27_40_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_40_1.jpg,"Tuy nhiên, khi thuận cho thu phí, HĐND cũng có cảnh báo trước : phải xem xét kỹ vì đây",c K k Hng   ,0.8769959807395935,76,20,0
+27_160_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_160_1.jpg,lâu lại phun nước ra như mưa. Tiếng ồn từ máy khoan lẫn bụi đá đã khiến,hoa lại phin nước ra như muơi. Tiếng ầầu nừ ng chom cn xi đã n xhố,0.9030595421791077,28,12,0
+7_128_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_128_1.jpg,nông nghiệp gặp khó khăn về nguồn nước tưới vào cuối vụ đông xuân.,"nsóng nghiệp gặn, khó khăn về nguồn nước tước vào cuối vụ đông xui",0.9752500057220459,8,4,0
+7_91_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_91_1.jpg,"(giá thuốc cùng loại ở nước sản xuất, ở các nước trong khu vực) để","giá Phuc Mung huạn á núa cơn xiết, ở cai nước trung knhu việ)sã",0.936105489730835,25,13,0
+55_177_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/55_177_1.jpg,đảng viên đi vào những chỗ không lành mạnh. Những dư luận liên,đàng viên đi vào những chỗ không làh mạnh. Những dư luân biên,0.9638422727584839,4,4,0
+7_212_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_212_1.jpg,Họ lập tức thông báo với người thân và bạn bè đến nộp đơn xin mua đất,"thọ tập tức thông Sảo với người t,  oá Băn K t n đán Hà Ni",0.8878151774406433,28,13,0
+31_57_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_57_1.jpg,"nhá nhem tối, chúng tôi tìm đến nhà người đàn ông tên Đức nằm trên con đường",khuna  ng tôi tìn đếa nhà người đần ông tân Đức   t cann. 2ộ,0.857949435710907,30,12,0
+27_29_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_29_1.jpg,"giao lưu, học tiếng Việt, đi tham quan, tìm hiểu văn hóa truyền thống.","xao lai học tồng Viện đó tham quan, tìm thiểm văn hà mogg thấ",0.9335172176361084,24,9,0
+271_19.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_19.jpg,Khu Tân Phú Thị Trấn Phú Thái Kim Thành Hải Dương,B6a Lờn Pố Tại Trấn Phú Thái Kin Thành Hải Dương,0.9620598554611206,10,5,0
+195_10.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_10.jpg,Khu 4 Trạm Thản Phù Ninh Phú Thọ,tung Tym Thu hunnn  hnthccanntn m00 tuamt0ant0tccng,0.6735400557518005,39,8,0
+7_233_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_233_1.jpg,triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2).,"Liêu Am2 ggấy 3dyn xe đất lêm, Hnện C02 800000 A)/",0.9099492430686951,35,14,0
+31_176_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_176_1.jpg,bị trúng thực. Cả êkip bị gã say văng tục chửi thề không,bị trúng thực. Cả ekip bị gả say văng tục chửi thề không,0.9714170098304749,2,2,0
+79_24.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_24.jpg,Tổ Dân Phố Dộc Tây Mỗ Nam Từ Liêm Hà Nội,Tổ Dân Phố Dộc Tây H5 Ham Từ Liêm Hà Hộ,0.9755062460899353,5,3,0
+271_17.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_17.jpg,Thôn 8 Việt Cường Trấn Yên Yên Bái,Thôn 8 Việt Cường Trấn Yên Yên Rái,0.9770122766494751,1,1,0
+68_20.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_20.jpg,Duy Xuyên Quảng Nam,Đng Xuy Qng N,0.9635950326919556,9,4,0
+7_176_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_176_1.jpg,nhân được cấp cứu hồi sức thì bao nhiêu khó chịu cũng,thân tược cấy cứu hồi sựộc thì kao nhlêu khó chựu cũng,0.9533432126045227,8,7,0
+7_158_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_158_1.jpg,"động được thực hiện từ tháng 8 - 2003, thời hạn 36 tháng với loại",động được thực hiện từ tháng 8.2003 thời hạn 26 tháng với loại,0.9669854640960693,5,4,0
+193_13.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_13.jpg,Trung Thôn Nhị Khê Thường Tín Hà Nội,XungXion Hân Hâ N,0.9302515387535095,25,8,0
+31_240_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_240_1.jpg,"dâng lên có chỗ ngập trên 2,5 m, với nhiều gia đình nghèo chỗ cao",dâng lên có chỗ niột tên hôm ca niu n ài ng đuan,0.9049172401428223,30,11,0
+7_196_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_196_1.jpg,Và 115 đã trở thành số điện thoại đáng tin cậy của nhiều người... Theo những vòng,1/5 đã trở thàh sơ điện thoại đáng tin cây của nhưcu người.. Theo nhng vng,0.9205613136291504,12,9,0
+7_136_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_136_1.jpg,khác. Ngoài ra những chiếc xe ben ngược chiều phóng bạt,"Kháo, Ngưnn ra nhng tiếc xe ngưn chiêu phóng Lạc",0.9355689287185669,17,8,0
+7_56_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_56_1.jpg,"Tuy nhiên theo các lao động này, bảy tháng qua họ chỉ có việc làm ít ngày, không có lương, bị","y nhiên, theo sác lao đông này, bảy tháng qua họ chỉ có việc làm ít ngày, không có lương. bị",0.9557053446769714,6,5,0
+195_12.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_12.jpg,Hồng Lạc Thanh Hà Hải Dương,hà  Thh,0.9422122240066528,21,5,0
+79_8.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_8.jpg,Phượng Xuân Xuân Khang Như Thanh Thanh Hoá,Phượng Xuận Xuân Khang Như Thanh Thánh Hoà,0.9763375520706177,3,3,0
+193_25.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_25.jpg,6 Ngách 64/53 Đặng Thai Mai Quảng An Tây Hồ Hà Nội,Phonh Ba5 3 Đăng Phai Mai Quảng An Tâng Hồ Hà Nội,0.9470024108886719,14,6,0
+79_6.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_6.jpg,Trại Đồng Liên Am Vĩnh Bảo Hải Phòng,1 Đồng Liêm An Vĩnh Bảo Hải Phòng,0.9867842793464661,6,3,0
+68_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_1.jpg,Thôn Trung Thành Nam Phú Tiền Hải Thái Bình,"Thôm B Tin, Nam Phú Tơn Tưi Thái",0.9420226812362671,18,6,0
+79_16.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_16.jpg,Tịnh Hoà Tp Quảng Ngãi Quảng Ngãi,"Tinh Hôg Tp Quảng Nãi Quậnn, u",0.9599313735961914,10,5,0
+79_15.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_15.jpg,Thôn Đoài Thanh Trù Thành Phố Vĩnh Yên Vĩnh Phúc,Thôn Goài Thanh Trù Thành Phố Vĩnh Yên Vĩnh Pruc,0.9822165369987488,3,2,0
+79_19.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_19.jpg,Thôn Tân Phú 1 Đinh Lạc Di Linh Lâm Đồng,Thôn Tân Phú 1 Đình Lạc Di Linh Lâm Đồng,0.982086181640625,1,1,0
+79_13.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_13.jpg,Vĩnh Tiến Vĩnh Bảo Hải Phòng,ổ Bạ Tng u,0.9258511662483215,24,6,0
+68_7.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_7.jpg,Thạch Lập Ngọc Lặc Thanh Hoá,naHa,0.901083767414093,25,6,0
+68_17.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_17.jpg,Phú Phụng Chợ Lách Bến Tre,,0.9750626087188721,26,6,0
+31_211_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_211_1.jpg,"các tài xế đã cho biết. Qui trình rất linh hoạt, trình giấy tại cửa trạm hoặc đưa","các tôi xế đã cho biết Cu trình rất linh hoạr, trình giấy táo của trạm hặặc đư",0.9502199292182922,10,8,0
+271_13.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_13.jpg,767b Phan Văn Trị Phường 67 Bình Thạnh Tp Hồ Chí Minh,ThT T Phần Tân Tâ Phường 6g Bình Thành Tp Hồ Chí Minh,0.9456250071525574,12,7,0
+79_11.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/79_11.jpg,Thôn Yên Việt Đông Cứu Gia Bình Bắc Ninh,Thôn Yên Vệt Đông Cứu Gia Bình Bắc Ninh,0.9818713665008545,1,1,0
+68_14.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_14.jpg,Bản Cửa Rào 8 Xá Lượng Tương Dương Nghệ An,Kupu,0.9216845631599426,42,10,0
+31_7_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_7_1.jpg,"nhiễm mặn; sống nhờ con tôm, con cá trời cho thì chỉ qua ngày, tương lai mờ mịt",niần aạ gẤố dà c tn ca vì Vâi Ti cã anày tài kí mci,0.8617070317268372,50,18,0
+193_23.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_23.jpg,Ấp Hội Thành Tân Hội Mỏ Cày Nam Bến Tre,Ấp Hội Thành Tân Hội MhLấT Na Bến Tre,0.9648227095603943,6,3,0
+58_120_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/58_120_1.jpg,"Một bác tài xe ôm ngồi chờ khách ngay ngã tư nói : "" Anh cứ nhìn vào các trạm","Một bác tải xe ôn ngồt chờ khách quay ngã tư núi. "" Anh cứ nhìn vào cái trạn",0.9511627554893494,10,8,0
+7_232_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_232_1.jpg,Họ lập tức thông báo với người thân và bạn bè đến nộp đơn xin mua đất xây,Họ lận tức thông báo với người thân và hạn hè đến nộn đơn xin mua đất xây,0.9741143584251404,4,4,0
+68_11.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/68_11.jpg,Thới Thạnh Thới Lai Tp Cần Thơ,Thái Hàinn Thới Hai Tp Cần Tuơi,0.9639227390289307,8,4,0
+7_26.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_26.jpg,Ấp Vĩnh Phong Vĩnh Quới Thị Xã Ngã Năm Sóc Trăng,Ấp Vnh Phong Vĩnh Quới Tị Xã Ngã Năm Sác Lng,0.9515637159347534,6,4,0
+271_11.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_11.jpg,63/95/78 Kp6a Đông Hưng Thuận Quận 79 Hồ Chí Minh,63/55/7p Kp6a Ông Hà Thuận Quận 79 Hồ Chí Minh,0.9565779566764832,6,3,0
+195_19.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_19.jpg,Ấp Ba Trạch B Tân Hiệp Trà Cú Trà Vinh,B Tg Lun 6 Tân Hện Try Cý L Vinh,0.9389979839324951,17,8,0
+7_41_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_41_1.jpg,"nghèo ở qui mô lớn trong nhiều khung cảnh kinh tế, xã hội và định chế.","nghèo ở quí mô lớn trong mm vvia khung cảnhh kinh - tế, xã l.  và định chế",0.9419196844100952,15,7,0
+7_9_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_9_1.jpg,Nhặt và gọi. Một ngày làm việc của anh Âm bắt đầu bằng việc làm quen với một anh,Thắ cà gọ Nột ngày làm vọc cửa anh têm bát đầu bằng việc làm que nười một anh,0.944259524345398,17,10,0
+195_17.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_17.jpg,Mường Bú Mường La Sơn La,Kuềuệ L Qê2L,0.9454435110092163,20,6,0
+7_138_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_138_1.jpg,"Một thanh niên mặc đồ dân phòng chờ sẵn nơi đầu hẻm đón chúng tôi. Xe dừng,",i thàn nên vực đà đân thòng cho sản sàng nơi đầu hẻm đón chúng tôi. Xe dừng.,0.9428238868713379,19,11,0
+31_195_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_195_1.jpg,chặt nhưng chưa có kết luận cháu bé 24 tháng tuổi này cũng nhiễm HIV.,Nág xác ct dán chha lt ny thóg tất này cn bạị nhiễm HIV.,0.8997641801834106,35,13,0
+193_18.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/193_18.jpg,425 Tổ 9b Đồng Tâm Hai Bà Trưng Hà Nội,25gổ 98 Đg Tâải Bà rưng Hà Nội,0.9381551742553711,11,7,0
+121_22.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_22.jpg,Thôn H7ng Vĩ Đồng Văn Yên Lạc Vĩnh Phúc,Thôn H7ng Vĩ Đồng Vã Yên Lạc Vĩnh Muu,0.982146680355072,6,2,0
+31_145_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_145_1.jpg,"tuyến nào bao nhiêu. Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trên,","uyến nào bao nhiêu. Trong gần 40 phút chúng tôi chứng kiến, tại tuyến trân,",0.9643323421478271,2,2,0
+27_18_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_18_1.jpg,"nước phong tặng danh hiệu anh hùng lao động. Trong lúc đó, công trình này (đầu tiên ở VN và là hầm", ,0.9182149767875671,97,22,0
+121_18.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_18.jpg,776 Đường 91/1 Phường 3 Thành Phố Sóc Trăng Sóc Trăng,776 Đường 4n Th Sóc Trũng Sóc Trăng,0.9371200203895569,20,6,0
+121_19.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_19.jpg,Quảng Minh Tp Sầm Sơn Thanh Hoá,Chảng Minh Tp Sấm Sơn Thanh Hoá,0.9871969223022461,3,2,0
+271_6.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_6.jpg,Thôn Phúc Lai Xuân Lai Gia Bình Bắc Ninh,Thôn Phúc Lai Xuân Lai Gia Bình Bắc Ninh,0.9777510762214661,0,0,1
+195_18.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/195_18.jpg,963 Cù Chính Lan Trần Tế Xương Tp Nam Định Nam Định,Qe D Mành Aan Trần Tíyn ,0.8998381495475769,35,11,0
+7_24.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_24.jpg,Ấp Việt Kiều Suối Cát Xuân Lộc Đồng Nai,Ấp Việt Kiêu Suối Cát Xuân Lộc Đồng Nai,0.9867567420005798,1,1,0
+121_8.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_8.jpg,Thôn Đai Tiến Đại Đức Kim Thành Hải Dương,Tâư An Tâôn Tơi hư Xin Tành Hải Dương,0.9541115760803223,15,7,0
+121_6.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_6.jpg,P478 H7 Đt Việt Hưng Giang Biên Long Biên Hà Nội,hn ,0.9096397757530212,45,11,0
+121_15.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_15.jpg,Thôn Láng Nhớt Diên Tân Diên Khánh Khánh Hoà,Thôn Láng Nhốt Diên Tân Dơn Khánh Khánh Hoà,0.9775868058204651,3,2,0
+27_63_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_63_1.jpg,"mời về huyện Sông Cầu để nghe phổ biến chủ trương của UBND tỉnh Phú Yên,","về huyện sông Cầu để nge phỏ t chủ trương.... UBND tỉnh Phú Yên,",0.9552671313285828,14,6,0
+7_3.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_3.jpg,Thanh Minh Thị Xã Phú Thọ Phú Thọ,Tin Nn Trị Ha Phún Tọ Phú Trọ,0.9603811502456665,12,7,0
+121_14.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/121_14.jpg,Ấp Xuân Thiện Xuân Thiện Thống Nhất Đồng Nai,Tg,0.9003179669380188,42,9,0
+31_183_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_183_1.jpg,đến khách sạn mua dâm nhưng ông Phương lại không vào phòng đúng lúc,đến kháh sạn mua dâm nhưng ông Phương lạn không vào phùng đáng lúc,0.9621005654335022,4,4,0
+7_53_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_53_1.jpg,""" Tội nghiệp, họ toàn là người miền Bắc... "" - một chủ quán ở đầu thị trấn nói khi",""" Tội nghiệp, họ toàn là người triều Bắc... "" một chủ quán ở đầu thị trấn nói khi",0.9536954760551453,5,2,0
+7_22.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_22.jpg,Tt Nho Quan Nho Quan Ninh Bình,Tt Nho Quan Nho Quan Ninh Bình,0.9834403991699219,0,0,1
+7_195_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_195_1.jpg,Họ sợ. Còn vợ chồng anh Diên thì cứ ngồi cúi đầu nơi bàn nước. Anh phẫn uất :,Kug chng nh n h Đn h hàn  ,0.8433775305747986,55,19,0
+264_25.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/264_25.jpg,Số 2a Cử Luyện Phường 5 Tp Tân An Long An,Ấá C Kuông Bhuhng 5 5 Tân An Long An,0.9362202286720276,15,6,0
+27_150_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_150_1.jpg,"trực tiếp đi bỏ hàng cho các tỉnh thành, nhưng sau đó hai người ly dị","trực tiếp đìho hàng cho các tỉnh thành, nhảng sau đố hai ngườời cc.",0.9523772597312927,12,7,0
+27_74_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_74_1.jpg,"thùng thình, gần 50 công nhân, người đứng nhìn những bạn bè mình ở","thùng thih gần 50 công nhân, người đứng nhòn những bạn bè mình ở",0.9514107704162598,4,2,0
+27_193_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_193_1.jpg,nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà nước. Triển khai quyết,   ,0.9163793325424194,73,16,0
+7_154_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_154_1.jpg,nặng giữ người dưới biển) và nối liền với bình dưỡng khí được vận hành nhờ máy thủy (máy,1 giữ người dưới biển) và hổi liền với bình dưởng khí được vận hành nhờ máy thy (mdc,0.9568420052528381,10,5,0
+7_45_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_45_1.jpg,buôn nhằm hạn chế kinh doanh lòng vòng làm nâng giá thuốc; lập ngân,"boê ìm hạn chế hinh doanh lòng vòng làm nâng giá thuốc, lyể gác",0.9436535835266113,13,6,0
+264_16.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/264_16.jpg,Quảng Đông Tp Thanh Hoá Thanh Hoá,Kuảng Đông P T hnh o,0.9226847290992737,14,6,0
+7_7.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_7.jpg,Tân Lập Tân Thạnh Long An,Sn Tai Tân hạh Long An,0.9587753415107727,7,3,0
+7_11.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_11.jpg,Mỹ Long Bắc Cầu Ngang Trà Vinh,Xiu Loa Tớc Tầ Toong Ta Vnh,0.9606676697731018,15,7,0
+264_10.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/264_10.jpg,Bắc Ninh,Bắc NinhTT,0.9352443814277649,2,1,0
+7_64_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_64_1.jpg,"Bình dẫn chứng - có 109 doanh nghiệp (DN) cổ phần hóa, năm 2003 mình làm được 37.","""uẫu hứng - đó ding đáxách n ghâpn (NV cũ mnn náo, nm caa  mit km cợt37.",0.8796980977058411,45,17,0
+264_0.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/264_0.jpg,35/15 Bình Minh 6 Dĩ An Thành Phố Dĩ An Bình Dương,5115 Bình Minh6 Dĩ An Thanh Phố Dĩ An Bình Dương,0.9741235971450806,4,4,0
+264_6.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/264_6.jpg,Ấp 2 Lộ 31 Thống Nhất Đồng Nai,1p 2 Lộ 31 Thống Nhất Đồnng Nai,0.9774779081344604,2,2,0
+1336_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1336_samples.png,"Số 292/3, KP 4, Phường Tân Biên, Thành Phố Biên Hoà, Đồng Nai",n K Xã Kâaa n Thàg Pìn hLàh Kàà Niàng an,0.8271116018295288,42,13,0
+0777_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0777_samples.png,"169 Nguyễn Văn Thoại, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",Bhm Q Q Huận,0.9064912796020508,55,13,0
+0570_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0570_samples.png,"K115/6 ông ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng","Khm2/6 ông Kn Kiên, Phường Thánh Bình, Quậa Hải Châu",0.9505093097686768,19,8,0
+0338_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0338_samples.png,"Số 838, KP 2, Phường Trảng Dài, Thành phố Biên Hoà, Đồng Nai","Số T1 B, Phường Tôm Nệ hn pố Pn Cin, Đồg",0.8802748322486877,31,11,0
+0408_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0408_samples.png,"Tổ 30 khu 3, Phường Quán Toan, Quận Hồng Bàng, Hải Phòng","TTnT Thú n Thân Tôn T Bng, Hải Phai",0.843183696269989,33,11,0
+0158_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0158_samples.png,"369/3D, ấp An Phong, Xã An Thạnh, Huyện Mỏ Cày Nam, Bến Tre",,0.9376158118247986,59,13,0
+1333_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1333_samples.png,"Thôn Văn xá, Huyện An Dương, Hải Phòng", h ên Phúng,0.8896997570991516,29,8,0
+0913_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0913_samples.png,"103 Lê Văn Thọ, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh","103 Lê Văn Thọ, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh",0.9754992723464966,0,0,1
+1663_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1663_samples.png,"13/6 Đường số 1, Phường An Lạc A, Quận Bình Tân, TP Hồ Chí Minh","Tô, TT Q Hh C N",0.8450686931610107,52,15,0
+1412_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1412_samples.png,"Đường 20-9, TT.Bắc Hà, Huyện Bắc Hà, Lào Cai","ường 20-9, TP. Bắc Hà, Hhuyện Bảc Hà, Lào cai",0.9638382196426392,5,5,0
+0853_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0853_samples.png,"84 Hoàng Văn Thụ, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng","221 Hưg băn Thụ, Phườờng Puảc Co nn đo i Đ   àg",0.8600731492042542,31,11,0
+0601_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0601_samples.png,"Đường Nguyễn Khuyến, KP1, Thị trấn Võ Xu, Huyện Đức Linh, Bình Thuận",Tầá n  Q T Kuu Ha,0.8043133020401001,57,13,0
+0848_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0848_samples.png,"số 11 Bis, đường Nguyễn Gia Thiều, Phường 06, Quận 3, TP Hồ Chí Minh","Số 11 Bis, đường Nguyễn Giia Thàu, Phường 06, Quận 3, TP Hồ Chí Minh",0.9517397284507751,3,2,0
+0232_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0232_samples.png,"145 Nguyễn Đình Chính, Phường 11, Quận Phú Nhuận, TP Hồ Chí Minh", 1êà uyễn Đn Cả Tyên hQnn Nh  h x n g,0.8378328680992126,41,13,0
+1731_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1731_samples.png,"Thôn Đầm môn, xã Vạn Thạnh, Huyện Vạn Ninh, Khánh Hòa",29m H à.ê. Vnh đã gê ê,0.7720546126365662,43,11,0
+0930_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0930_samples.png,"Số 34J2, Đường DD7-1, Phường Tân Hưng Thuận, Quận 12, TP Hồ Chí Minh",S n4pTTnh T  Tuận Quậ  THh,0.8004907369613647,46,14,0
+0400_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0400_samples.png,"Số 63 Thái Sơn, Xã N-Thol Hạ, Huyện Đức Trọng, Lâm Đồng","63 Thái Sơn, Xã NThol Hạ, Huyện Đức Trọng, Lâm Đồng",0.9746041297912598,4,2,0
+1266_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1266_samples.png,"1071, quốc lộ 1, Phường Tân Khánh, Thành phố Tân An, Long An",1ng Tn T1 Phú T Bnh Thành Th B Tú Nn,0.8934394121170044,35,12,0
+0528_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0528_samples.png,"Thôn Mỹ Chánh, Xã Hải Chánh, Huyện Hải Lăng, Quảng Trị","Thôn Mỹ Chânh, Xã H ChhHoê c Lanm QngT",0.918383777141571,22,8,0
+0419_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0419_samples.png,"Tổ 4, thôn Phước Long, Xã Tân Hoà, Huyện Tân Thành, Bà Rịa - Vũng Tàu","Số -2 Đễ Phố ônp, Xã Bô Đà, Puờn  Cĩánh Bà Bu - Đ Đều",0.8690878748893738,38,13,0
+0382_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0382_samples.png,"ấp Tân Lập, xã Vĩnh Hiệp, Thị Xã Vĩnh Châu, Sóc Trăng","ấp Tâni Lập, Xã Vội, Hện Thị Xã Vnh ChâuSắ Trăng",0.9536449909210205,12,6,0
+0242_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0242_samples.png,"ấp Đồng, Xã Phước Tân, Thành phố Biên Hoà, Đồng Nai","h T 4 Lạ , Thành phố Sun Thà, Đồng Hai",0.9317122101783752,23,8,0
+1552_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1552_samples.png,"Số 16D/55/46 Lạch tray, Quận Lê Chân, Hải Phòng","Sô 1 nệ Bn Lâi hn, Bn A",0.8652610182762146,34,9,0
+271_25.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/271_25.jpg,Nguyễn Thị Tần P6 Q5 Tp Hồ Chí Minh,KNguyễn Thị Tân P6 Q5 Tp Hồ Chí Minh,0.9714034199714661,2,2,0
+31_185_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_185_1.jpg,"kê bằng thân cây dừa lão xẻ ra làm sườn. Nhà có bề ngang 4 m, dài 6 m.","Khm âoan tn, thêm cSai cn vgoa So c can ghnám",0.7685556411743164,54,19,0
+1646_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1646_samples.png,"36/15A Đường Tăng Bạt Hổ, Phường 11, Quận Bình Thạnh, TP Hồ Chí Minh","Vhhôà Khô Vang Lạn ả, Hườg H, Qiận Bình Thạnh, TP Hồ Chí Min",0.8990016579627991,23,9,0
+1490_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1490_samples.png,"44/18 Đề Pô, Phường Phước Tân, Thành phố Nha Trang, Khánh Hòa","4 B Đp Hg1 Phườờng Phước Tâ, Thành phố Niha Trưng, Khánh Hòa",0.9353116154670715,12,8,0
+0346_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0346_samples.png,"Thôn 3, Xã Phùng Xá, Huyện Thạch Thất, Hà Nội","Thôn 3, Xã Phùng Xã, Huện Thanh Thết Hố Nội",0.952971875667572,7,5,0
+1779_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1779_samples.png,"Thôn Agrồng, Xã A Tiêng, Huyện Tây Giang, Quảng Nam","Thôn Hgiong, Xã A Trông, Huyện Tây Giang, Quảng Nam",0.9760454297065735,5,2,0
+0489_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0489_samples.png,"Số 405 Thuỵ Khuê P.Bưởi, Quận Tây Hồ, Hà Nội","Số 45 Thưng Kháu C Quận, Quận Tâng Hồ, Hà Nộng",0.9325153231620789,16,7,0
+0385_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0385_samples.png,"Số 289 Nguyễn Lương Bằng, Phường Văn Đẩu, Quận Kiến An, Hải Phòng"," Đ59 guy Kh Cm, hnhhm QyT, Qun KếĐ, H ",0.8576753735542297,40,13,0
+0494_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0494_samples.png,"Số 183 Lê Thành Phương, Phường 8, TP Tuy Hoà, Phú Yên","Shô T Thạnh Phường, Phường 8, PPhuny Hom, Phú Yiên",0.9239404797554016,15,9,0
+0247_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0247_samples.png,"458/10/8D Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh","255/101/ 8Dn Ty Tạ Pn, Lận Đên Thn à h",0.836637556552887,43,13,0
+0632_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0632_samples.png,"Số 10/75 Kiều Sơn, Phường Đằng Lâm, Quận Hải An, Hải Phòng",", Têm A",0.8829161524772644,53,12,0
+1315_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1315_samples.png,"150B Nguyễn Văn Cừ, Thành phố Bảo Lộc, Lâm Đồng", hh a,0.8330176472663879,43,10,0
+0816_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0816_samples.png,"540 Lê Hồng Phong, Phường 10, Quận 10, TP Hồ Chí Minh",a,0.8989201784133911,53,12,0
+0574_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0574_samples.png,"ấp Nhà việc, xã Châu Thới, Huyện Vĩnh Lợi, Bạc Liêu",T â H Sàn ên Quhg n â H ca,0.8825992345809937,39,11,0
+1802_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1802_samples.png,"Thị trấn xuân Trường, Huyện Xuân Trường, Nam Định", ,0.8918260931968689,48,9,0
+1538_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1538_samples.png,"506 Phú Thọ Hoà, Phường Phú Thọ Hoà, Quận Tân phú, TP Hồ Chí Minh",Kợ8Đpg   Tn Tn Phà TP  Há,0.8646093010902405,47,14,0
+0812_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0812_samples.png,"ấp An Lợi, Xã An Bình A, Thị xã Hồng Ngự, Đồng Tháp","ấp An Sới, X Đình An  Tâị Hõ Mn ngư Đên Tròn",0.8883028030395508,22,11,0
+1195_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/1195_samples.png,"40/25 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, TP Hồ Chí Minh","Kpp Bì Xiến  hường hhạ Ngũ Lão, Quận 12, TP Hồ Chí Minh",0.9168068170547485,14,6,0
+0429_samples.png,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/0429_samples.png,"74/61 Bùi Quang Là, Phường 12, Quận Gò Vấp, TP Hồ Chí Minh",Số T Tnhh  Tuạn  T T Tn Ch Canh,0.8130753040313721,39,13,0
+7_7_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/7_7_1.jpg,Cái buổi ban đầu của Đỗi là năm 1986. Sau những lần đi thu gom tôm đất do,cá dững đán dườc tản sỗ cã năm 190%.Sêu những lần đ tu pia đôn đợ.,0.8822264671325684,34,15,0
+27_133_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/27_133_1.jpg,"Qua mấy chục cây số mênh mông là ruộng, cuối cùng cái giỏ xách đã được hoàn lại chủ.","Qua mấy chục cây số mênh mông là ruộng, cuối cùng cái giỏ xách đỡ được hoàn lị chủ",0.9547739624977112,4,3,0
+31_117_1.jpg,/kaggle/input/datasets/huyyuh/3500-w/vn_handwritten_images/data/31_117_1.jpg,"Như vậy, "" việc xác nhận của thứ trưởng Hà có cần thiết không? (ông Hà ký xác",đoà sát Ôii Đọn nhâa cảo Thái Bhaba Hà có côn thiêp không? Công Hà ký xe,0.8895201086997986,33,13,0
